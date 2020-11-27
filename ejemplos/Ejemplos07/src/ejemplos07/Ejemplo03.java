@@ -19,11 +19,12 @@ public class Ejemplo03 {
         
         do {
             System.out.println("Desea salir del ciclo; digite: si");
-            salir = entrada.nextLine();
+            salir = entrada.nextLine();// SI Si si
+            salir = salir.toLowerCase();// siempre la cadena la hago minúscula: si si si 
             if(salir.equals("si")){
-                bandera = false;
+                bandera = false; 
             }
-        } while (bandera);
+        } while (bandera); 
         
         
     }

@@ -27,7 +27,7 @@ public class Ejemplo02 {
             contador = contador + 1;
             denominador = denominador + 2;
         }while (contador<=5);
-        System.out.println();
+        System.out.println(); 
        
     }
     
