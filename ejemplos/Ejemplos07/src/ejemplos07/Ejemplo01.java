@@ -27,8 +27,8 @@ public class Ejemplo01 {
             contador = contador + 1; // 1+1=2| 2+1=3| 3+1=4| 4+1=5| 5+1=6
             denominador = denominador + 2; // 1+2=3| 3+2=5| 5+2=7| 7+2=9| 9+2=11
         }
-        System.out.println(); // Impresión de una líneas en blanco
+        System.out.println(); // Impresión de una líneas en blanco  
        
-    }
+    }  
     
 }
